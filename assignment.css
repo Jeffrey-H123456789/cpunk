@@ -63,7 +63,7 @@
   
   .bar button:hover {
     background: #065465;
-    color: #05d9e8;
+    color: green;
     transform: scale(1.3);
     cursor: pointer;
   }
