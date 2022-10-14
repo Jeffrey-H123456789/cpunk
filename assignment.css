@@ -20,7 +20,7 @@
   }
   
   .link :hover {
-    transform: scale(1.4);
+    transform: scale(2);
     cursor: pointer;
   }
   
